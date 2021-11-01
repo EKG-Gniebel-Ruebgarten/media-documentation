@@ -25,4 +25,9 @@ Erstelle zu Demo-Zwecken einfach mal ein leeres Projekt und öffne es.
 Wenn du ein Projekt offen hast, siehst du untem am Bildschirm eine Leiste mit verschiedenen Tabs. Für uns sind eigentlich nur der Schnitt-Tab ("Cut"), und der Export-Tab ("Deliver") wichtig. Wenn das nicht schon der Fall ist, gehe auf den Edit-Tab.
 
 ## Der Schnitt-Tab ("Cut")
-Hier findet der Hauptteil deiner Arbeit statt. Der Bildschirm ist ein mehrere Abschnitte eingeteilt: In der unteren Hälfte siehst du die Timeline. Links drüber ist der Media-Pool und rechts davon 
+Hier findet der Hauptteil deiner Arbeit statt. Der Bildschirm ist ein mehrere Abschnitte eingeteilt: In der unteren Hälfte siehst du die Timeline. Links drüber ist der Media-Pool und rechts davon das Vorschau-Fenster.
+
+### Die Timeline
+
+![](assets/resolve_cut_timeline.PNG)
+
