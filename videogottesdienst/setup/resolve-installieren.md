@@ -17,6 +17,7 @@ Davinci Resolve ist gratis und - sofern man erweiterte Optionen ausblendet - rec
 
 ## Herunterladen
 Davinci Resolve (im Folgenden nur noch "Resolve") bekommst du hier:
+
 [Resolve herunterladen](https://www.blackmagicdesign.com/products/davinciresolve/){: .btn .btn-purple }
 
 Keine Sorge, wenn du von der Seite irritiert bist: Nein, wir schneiden keine Kinofilme, Resolve ist auch für kleine Projekte gut. 😉
