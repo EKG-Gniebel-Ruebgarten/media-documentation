@@ -3,7 +3,7 @@ layout: default
 title: 1. Videoschnittprogramm installieren
 nav_order: 1
 parent: Einmaliges Setup
-permalink: /setup/resolve-installieren
+permalink: /videogottesdienst/setup/resolve-installieren
 ---
 
 # Videoschnittprogramm installieren
