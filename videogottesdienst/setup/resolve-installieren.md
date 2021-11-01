@@ -34,7 +34,7 @@ Leider wirst du nach deinen Daten gefragt, bevor du das Programm herunterladen k
 ## Installieren
 Nachdem das Programm heruntergeladen hat, kannst du es installieren. Normalerweise kommt Resolve mit einigen Zusatzprogrammen, die wir aber alle nicht brauchen. Deshalb, wenn du auswählen kannst, die Checkboxen wie folgt setzen:
 
-![](assets/resolve_installer.png)
+![](assets/resolve_installer.PNG)
 (Screenshot für Windows, macOS müsste ähnlich sein)
 
 Dann ganz normal installieren.
