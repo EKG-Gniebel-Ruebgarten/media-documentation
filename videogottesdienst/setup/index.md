@@ -8,4 +8,4 @@ permalink: /videogottesdienst/setup
 ---
 
 # Einmaliges Setup & Einführung
-Dieser Teil der Anleitung fürs Einrichten des Programms und als Einführung gedacht, die du nur einmal brauchst.
+Dieser Teil der Doku ist fürs Einrichten des Programms und als Einführung gedacht, die du nur einmal brauchst.
