@@ -68,3 +68,16 @@ In der Regel solltest du sie nicht ändern, weil alle Vorlagen eine bestimmte Fr
 
 ![](assets/resolve_cut_timeline.PNG)
 
+Die Timeline ist die Übersicht deines Projekts. Hier siehst du alle Clips und sonstigen Elemente (Titel, Audio-Spuren, etc.), aus denen dein Video besteht.
+
+Importiere, wenn du das noch nicht gemacht hast, wie im Abschnitt drüber beschrieben ein Video in den Media-Pool. Jetzt kannst du es aus dem Media-Pool auf die Timeline ziehen. Jetzt ist das importierte Video Teil von dem Video, dass du am Ende exportierst.
+
+Videos sind in der Timeline blau, Audio-Spuren grün. Normalerweise hat jedes Video auch eine Audio-Spur.
+
+### Der Export-Tab ("Deliver")
+
+Hier kannst du dein Projekt als Video expotieren.
+
+![](assets/resolve_deliver.JPG)
+
+Die Einstellungen werden später in der Anleitung erklärt.
