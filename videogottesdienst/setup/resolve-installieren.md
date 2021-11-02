@@ -8,6 +8,7 @@ permalink: /videogottesdienst/setup/resolve-installieren
 ---
 
 # Videoschnittprogramm installieren
+{: .no_toc }
 Zunächst solltest du dir überlegen, wie du es mit dem Schneiden von dem Video halten willst. Falls dir der folgende Ablauf mit dem Programm DaVinci Resolve zu kompliziert oder aufwendig ist, kannst du auch beispielsweise das Video am Handy aufnehmen und direkt hochladen. Ganz wie du willst.
 
 ## Inhalt
