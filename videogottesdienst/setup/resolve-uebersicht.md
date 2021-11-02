@@ -3,6 +3,7 @@ layout: default
 title: 1. Übersicht über Resolve
 nav_order: 2
 parent: Einmaliges Setup
+grand_parent: Videogottesdienst
 permalink: /videogottesdienst/setup/resolve-uebersicht
 ---
 
